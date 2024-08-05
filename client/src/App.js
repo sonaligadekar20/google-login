@@ -1,8 +1,7 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import axios from "axios";
-
-
+import Signup from './views/Signup/Signup';
 import Login from './views/Login/Login';
 import './App.css';
 
